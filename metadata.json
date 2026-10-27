@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora Python Didática",
+  "description": "Calculadora interativa com as 4 operações básicas, histórico e painel pedagógico de código Python para iniciantes em programação.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
